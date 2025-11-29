@@ -8,34 +8,40 @@ permalink: /vacancies
 
 # Open positions
 
-**We are currently open for PhD and postdoc applications related to our ERC CoG grant. The positions are mostly related to the Electron Pair Microscopy projects.**
+<style>
+  
+/* Override bold color to black for this page only */
+strong {
+  color: black !important;
+}
+</style>
 
-We are  looking for new group members with passion, talent, and grit!
+We're recruiting students who are excited about building the next generation of approaches and tools for **automating software development** and improving **code quality, reliability, and security**. My group works on topics such as:
 
-You will have the chance to work on the grand challenges of condensed matter physics, often at the interface of instrumental design and new physics. You will be involved in determining the important and interesting questions, creating and improving instrumental setups, performing measurements, and making discoveries.
+- Code translation and synthesis  
+- Bug detection and program analysis  
+- Software quality and security assurance
 
-### Past open positions
+**Please note:** All applications are handled centrally through the [UH CS Graduate Admissions page](https://uh.edu/nsm/computer-science/graduate/admissions/). We cannot admit students directly.
 
-You find the past job openings here:
-[Opening 1]({{ site.baseurl }}/downloads/GeneralPostdoc_2019_v01.pdf),
-[Opening 2]({{ site.baseurl }}/downloads/PPMS_PhD_2019_v01.pdf),
-[Opening 3]({{ site.baseurl }}/downloads/PD.pdf),
-[Opening 4]({{ site.baseurl }}/downloads/PHD1.pdf),
-[Opening 5]({{ site.baseurl }}/downloads/PHD2.pdf).
+---
 
-### Applications for PhD and Postdoc positions
-If you are interested in working with us as a PhD student or postdoc, please send me an [email](mailto:milan.allan@gmail.com). State briefly why you are interested and attach a CV, including information about the grades you had as an undergraduate. No need for a separate cover letter or certificates. **Important**: please insert _"Application PhD"_ or _"Application Postdoc"_ in the subject line. If you are applying to a specific advertisement, note this in your email.
+## Ph.D. Applicants
+We’re not actively hiring a new PhD student at this moment. That said, if you are a current PhD student and would like to explore a collaborative research project in the areas above, we’d be happy to hear from you.
 
-We especially welcome postdocs with fellowships. I'd be happy to support you, also after you apply to our group. Take a look at the [veni fellowship](https://www.nwo.nl/en/calls/nwo-talent-programme-veni-science-domain) or the Marie Curie fellowship (currently closed, next deadline probably Fall 2021, [here is last years call]({{ site.baseurl }}/downloads/h2020-wp1820-msca_en.pdf)). In many country, there are also fellowships available for outdoing postdocs.**
+---
+
+## UH M.S. Students
+
+If you're a current Master’s student in the CS department at UH and are interested in working with me on a research project, thesis, or capstone related to software productivity or quality, please complete the [Master’s Interest Form](https://forms.gle/v8gxsCrfg25MrqD36). Please note that we're not hiring for an RA roll at this moment, but would be happy to hearing from you if you're looking for an advisor.
+
+---
+
+## Advisor Assignment at UH
+
+You **do not need to secure a faculty advisor before applying** to UH’s Ph.D. or M.S. programs. Students are first admitted by the department. Research advising typically begins after admission, once mutual interest and fit are established.
+
+Filling out a form or expressing interest is **non-binding** for either side. It simply opens the door for a possible research match.
 
 
-### Master projects for Leiden University students
-If you are a Master student at Leiden University looking for a Master project, contact me (or any group member) per email or stop by my office.
-
-### Bsc / Master students from elsewhere
-If you are interested in pursuing a Master degree at Leiden University, see [mastersinleiden.nl](http://www.mastersinleiden.nl/programmes/physics/en/introduction). Sometimes, we take master students or summer interns if we get exceptional applicants (this usually means very good grades and a personal recommendation).
-
-
-<figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/DSC_0696.jpg" width="95%">
-</figure>
+*Due to the high volume of interest, we might not be able to respond to individual emails. Please fill out the form only, and we'll reach out if there’s a potential match.*
