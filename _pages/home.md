@@ -56,7 +56,7 @@ We have two overarching goals: first, understanding, proving, and guarantying
 </div>
 
 
-We are currently building a **C to Rust transpiler**, a **binary to LLVM pointer typifyer**, and an **ML Security framework**. We will exchange ideas with world class groups working in these areas.
+We are currently building a **C to Rust transpiler**, a **binary to LLVM pointer typifyer**, an **ML Security framework**, and a **Quantum-based Program Quality** tool. We will exchange ideas with world class groups working in these areas.
 
 <!-- **We are looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)](https://www.allanlab.org/vacancies) **!** -->
 
