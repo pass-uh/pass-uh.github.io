@@ -1,11 +1,23 @@
-- name: Steven Sanchez
-  photo: Steven.JPG
-  info: Undergrad Student, joined since Fall 2025
-  email: ssanch55@CougarNet.UH.EDU
+# - name: Steven Sanchez
+#   photo: Steven.JPG
+#   info: Undergrad Student, joined since Fall 2025
+#   email: ssanch55@CougarNet.UH.EDU
+#   number_educ: 0  
+
+# - name: Shaheer H Abbasi
+#   photo: Shaheer.jpeg
+#   info: Undergrad Student, joined since Spring 2026
+#   email: shabbas3@CougarNet.UH.EDU
+#   number_educ: 0    
+
+- name: Yamen H Aljamal
+  photo: bio-photo.jpg
+  info: Undergrad Student, joined since Fall 2026
+  email: yhaljama@CougarNet.UH.EDU
   number_educ: 0  
 
-- name: Shaheer H Abbasi
-  photo: Shaheer.jpeg
-  info: Undergrad Student, joined since Spring 2026
-  email: shabbas3@CougarNet.UH.EDU
+- name: Omar Aguilar
+  photo: bio-photo.jpg
+  info: Undergrad Student, joined since Fall 2026
+  email: oaguila5@CougarNet.UH.EDU
   number_educ: 0    
